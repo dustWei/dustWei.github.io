@@ -1,0 +1,5 @@
+\\Mac\Home\Desktop\2016210117weishiqi\2016210117weishiqi\bin\2016210117weishiqi.dll
+\\Mac\Home\Desktop\2016210117weishiqi\2016210117weishiqi\bin\2016210117weishiqi.pdb
+\\Mac\Home\Desktop\2016210117weishiqi\2016210117weishiqi\obj\Debug\2016210117weishiqi.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\2016210117weishiqi\2016210117weishiqi\obj\Debug\2016210117weishiqi.dll
+\\Mac\Home\Desktop\2016210117weishiqi\2016210117weishiqi\obj\Debug\2016210117weishiqi.pdb
